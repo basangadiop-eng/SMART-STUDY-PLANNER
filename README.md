@@ -1,2 +1,3 @@
 # SMART-STUDY-PLANNER
-JJFJFJFJFGJGHHHIGNG
+smart-study-planner
+
